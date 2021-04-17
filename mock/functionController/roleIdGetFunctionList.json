@@ -1,0 +1,36 @@
+{
+	"success": true,
+	"msg": "执行成功",
+	"data": [{
+			"id": "7c34769085a711e98be6525400234cf1",
+			"name": "system",
+			"title": "系统管理"
+		},
+		{
+			"id": "fe4f168e9c1e4918a4da868fa6a08f2f",
+			"name": "menuTable",
+			"title": "菜单管理"
+		},
+		{
+			"id": "17b0f8c1d6f14301bc740bfbb0ddd312",
+			"name": "role",
+			"title": "角色管理"
+		},
+		{
+			"id": "f77929cef86a418b96201d355345ffae",
+			"name": "wordbook",
+			"title": "字典管理"
+		},
+		{
+			"id": "8867efdc1a074328ae357b2bf5312b0b",
+			"name": "user",
+			"title": "用户管理"
+		},
+		{
+			"id": "1e710048c5574cd8bc82d614f48e47d1",
+			"name": "org",
+			"title": "组织机构"
+		}
+	],
+	"code": 1000
+}

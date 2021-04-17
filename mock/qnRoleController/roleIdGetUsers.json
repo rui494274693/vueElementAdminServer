@@ -1,0 +1,18 @@
+{
+	"success": true,
+	"msg": "OK",
+	"data": [{
+		"id": "dcc7a67e9a934db4981e4eaeb1dde827",
+		"userKey": "admin",
+		"password": null,
+		"realName": "管理员",
+		"state": null,
+		"userDetails": null,
+		"position": null,
+		"orgId": null,
+		"role": null,
+		"orgOrderIndex": null,
+		"functions": null
+	}],
+	"code": 1000
+}

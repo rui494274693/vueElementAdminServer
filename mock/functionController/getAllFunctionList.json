@@ -1,0 +1,134 @@
+{
+	"success": true,
+	"msg": null,
+	"data": [{
+			"id": "7c34769085a711e98be6525400234cf1",
+			"pid": null,
+			"orderIndex": 0,
+			"hidden": false,
+			"component": "Layout",
+			"name": "system",
+			"title": "系统管理",
+			"path": "/system",
+			"icon": "el-icon-s-tools",
+			"children": [{
+					"id": "fe4f168e9c1e4918a4da868fa6a08f2f",
+					"pid": "7c34769085a711e98be6525400234cf1",
+					"orderIndex": 0,
+					"hidden": false,
+					"component": "/system/menu/index",
+					"name": "menuTable",
+					"title": "菜单管理",
+					"path": "/system/menu",
+					"icon": "el-icon-menu",
+					"children": [],
+					"remark": "菜单管理-添加-修改-删除"
+				},
+				{
+					"id": "17b0f8c1d6f14301bc740bfbb0ddd312",
+					"pid": "7c34769085a711e98be6525400234cf1",
+					"orderIndex": 1,
+					"hidden": false,
+					"component": "/system/role/index",
+					"name": "role",
+					"title": "角色管理",
+					"path": "/system/role",
+					"icon": "el-icon-s-custom",
+					"children": [],
+					"remark": "角色-新增-修改-删除 角色菜单权限管理"
+				},
+				{
+					"id": "8867efdc1a074328ae357b2bf5312b0b",
+					"pid": "7c34769085a711e98be6525400234cf1",
+					"orderIndex": 2,
+					"hidden": false,
+					"component": "/system/user/index",
+					"name": "user",
+					"title": "用户管理",
+					"path": "/system/user",
+					"icon": "el-icon-user",
+					"children": [],
+					"remark": "用户管理 新增-修改-删除"
+				},
+				{
+					"id": "f77929cef86a418b96201d355345ffae",
+					"pid": "7c34769085a711e98be6525400234cf1",
+					"orderIndex": 3,
+					"hidden": false,
+					"component": "/system/wordbook/index",
+					"name": "wordbook",
+					"title": "字典管理",
+					"path": "/system/wordbook",
+					"icon": "el-icon-c-scale-to-original",
+					"children": [],
+					"remark": "字典管理 新增-修改-删除"
+				}
+			],
+			"remark": "系统管理"
+		},
+		{
+			"id": "b72a2853495048c18d4a0c7234cff5f3",
+			"pid": null,
+			"orderIndex": 1,
+			"hidden": false,
+			"component": "Layout",
+			"name": "workbench",
+			"title": "我的工作台",
+			"path": "/workbench",
+			"icon": "el-icon-s-platform",
+			"children": [{
+				"id": "dc0a23ec2e2b4a8ab69748c08fcea561",
+				"pid": "b72a2853495048c18d4a0c7234cff5f3",
+				"orderIndex": 1,
+				"hidden": false,
+				"component": "none",
+				"name": "myWorkbench",
+				"title": "我的工作台",
+				"path": "/myWorkbench",
+				"icon": "el-icon-s-platform",
+				"children": [{
+						"id": "fd1029f7d31f4579b43b8defc1287478",
+						"pid": "dc0a23ec2e2b4a8ab69748c08fcea561",
+						"orderIndex": 0,
+						"hidden": false,
+						"component": "/demo/index",
+						"name": "demo",
+						"title": "demo",
+						"path": "/demo",
+						"icon": "el-icon-s-flag",
+						"children": [],
+						"remark": ""
+					},
+					{
+						"id": "fd1029f7d31f4579b43b8defc1287477",
+						"pid": "dc0a23ec2e2b4a8ab69748c08fcea561",
+						"orderIndex": 1,
+						"hidden": false,
+						"component": "none",
+						"name": "demo2",
+						"title": "demo2",
+						"path": "/demo2",
+						"icon": "el-icon-s-flag",
+						"children": [{
+							"id": "fd1029f7d31f4579b43b8defc1287476",
+							"pid": "dc0a23ec2e2b4a8ab69748c08fcea561",
+							"orderIndex": 0,
+							"hidden": false,
+							"component": "/demo/index21",
+							"name": "demo21",
+							"title": "demo21",
+							"path": "/demo21",
+							"icon": "el-icon-s-flag",
+							"children": [],
+							"remark": ""
+						}],
+						"remark": ""
+					}
+				],
+				"remark": ""
+			}],
+			"remark": ""
+		}
+	],
+	"code": 1000
+}

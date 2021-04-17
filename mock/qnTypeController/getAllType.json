@@ -1,0 +1,38 @@
+{
+    "success": true,
+    "msg": "OK",
+    "data": [
+        {
+            "id": "23d3fde4844d42daa5b2bb0f8714485e",
+            "typeCode": "test",
+            "typeName": "测试字典",
+            "pid": null,
+            "remark": "",
+            "typeValue": "",
+            "orderIndex": 0,
+            "children": [
+                {
+                    "id": "4fe65213e1d24ea6bfd657917166d135",
+                    "typeCode": "test1",
+                    "typeName": "测试一",
+                    "pid": "23d3fde4844d42daa5b2bb0f8714485e",
+                    "remark": "",
+                    "typeValue": "",
+                    "orderIndex": 0,
+                    "children": []
+                },
+                {
+                    "id": "1bd15e53a5ef4ec8bf4e9b2452615e3b",
+                    "typeCode": "test2",
+                    "typeName": "测试二",
+                    "pid": "23d3fde4844d42daa5b2bb0f8714485e",
+                    "remark": "",
+                    "typeValue": "",
+                    "orderIndex": 1,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "code": 1000
+}

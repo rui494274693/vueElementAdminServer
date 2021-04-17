@@ -1,0 +1,71 @@
+{
+	"success": true,
+	"msg": "OK",
+	"data": {
+		"records": [{
+				"id": "fdd6546b450c4a1fbb7dc6a2ee8cc475",
+				"userKey": "cheshi",
+				"password": "$2a$10$k5l0DvMl5Sz.rPmqeRdJo.QU9yeQUi7LDdy4DOPc5yO5ptAGEiQCy",
+				"realName": "测试",
+				"state": 1,
+				"userDetails": {
+					"id": "9d966d2574614219a6d4b911d2b1f59a",
+					"userId": "fdd6546b450c4a1fbb7dc6a2ee8cc475",
+					"mobilePhone": "",
+					"officePhone": "",
+					"portraitImg": null,
+					"email": "",
+					"site": "",
+					"age": null,
+					"sex": "",
+					"remark": "",
+					"idCard": null,
+					"updateName": null,
+					"updateDate": null,
+					"createName": "admin",
+					"createDate": "2021-01-29T07:19:53.000+0000"
+				},
+				"position": null,
+				"orgId": null,
+				"role": null,
+				"orgOrderIndex": null,
+				"functions": null
+			},
+			{
+				"id": "dcc7a67e9a934db4981e4eaeb1dde827",
+				"userKey": "admin",
+				"password": "$2a$10$N1VQ05kAFciZyMYvMHPrzuXHHkJWIajWnWAPXQ346nyQ0U0ZYVj0O",
+				"realName": "管理员",
+				"state": 1,
+				"userDetails": {
+					"id": "dcc7a67e9a934db4981e4eaeb1dde828",
+					"userId": "dcc7a67e9a934db4981e4eaeb1dde827",
+					"mobilePhone": "10086",
+					"officePhone": "10000",
+					"portraitImg": null,
+					"email": "qq@.com",
+					"site": "admin",
+					"age": 100,
+					"sex": "0",
+					"remark": "密码随便6位",
+					"idCard": "441624",
+					"updateName": "admin",
+					"updateDate": "2021-01-29T07:02:46.000+0000",
+					"createName": "admin",
+					"createDate": "2019-06-01T08:41:20.000+0000"
+				},
+				"position": null,
+				"orgId": null,
+				"role": null,
+				"orgOrderIndex": null,
+				"functions": null
+			}
+		],
+		"total": 2,
+		"size": 10,
+		"current": 1,
+		"searchCount": true,
+		"pages": 1
+	},
+	"code": 1000
+}

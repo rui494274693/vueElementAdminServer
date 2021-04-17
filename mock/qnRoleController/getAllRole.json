@@ -1,0 +1,34 @@
+{
+	"success": true,
+	"msg": "OK",
+	"data": [{
+			"id": "5c8b380284dc11e98be6525400234cf1",
+			"roleCode": "admin",
+			"roleName": "管理员",
+			"updateName": "admin",
+			"updateDate": "2020-06-11T07:44:19.000+0000",
+			"createName": "admin",
+			"createDate": "2019-06-02T02:16:23.000+0000"
+		},
+		{
+			"id": "5c8b380284dc11e98be6525400234cf2",
+			"roleCode": "aotu",
+			"roleName": "所有用户组",
+			"updateName": null,
+			"updateDate": null,
+			"createName": "admin",
+			"createDate": "2019-06-02T02:16:23.000+0000"
+		},
+		{
+			"id": "dc0781186a2840c5a122f607c4ddfa64",
+			"roleCode": "test",
+			"roleName": "测试",
+			"updateName": null,
+			"updateDate": null,
+			"createName": "admin",
+			"createDate": "2021-01-29T07:27:29.000+0000"
+		}
+
+	],
+	"code": 1000
+}

@@ -1,0 +1,31 @@
+{
+	"code": 1000,
+	"data": {
+		"id": "dcc7a67e9a934db4981e4eaeb1dde827",
+		"password": "",
+		"realName": "管理员",
+		"role": [
+			"admin"
+		],
+		"state": 1,
+		"userDetails": {
+			"age": 100,
+			"createDate": 1559378480000,
+			"createName": "admin",
+			"email": "qq@.com",
+			"id": "dcc7a67e9a934db4981e4eaeb1dde828",
+			"idCard": "441624",
+			"mobilePhone": "10086",
+			"officePhone": "10000",
+			"remark": "默认密码：随便",
+			"sex": "0",
+			"site": "admin",
+			"updateDate": 1611903766000,
+			"updateName": "admin",
+			"userId": "dcc7a67e9a934db4981e4eaeb1dde827"
+		},
+		"userKey": "admin"
+	},
+	"msg": "登录成功",
+	"success": true
+}
