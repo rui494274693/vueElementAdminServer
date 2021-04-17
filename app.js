@@ -56,7 +56,8 @@ allFile.forEach(file => {
 	// 是json文件的
 	if (file.indexOf('.json') >= 0) {
 
-		let mockUrl = '/' + file.replace(/.json/, "").replace(/mock\//, ""); //接口路径
+		let mockUrl = '/' + file.replace(/.json/, "").replace(/mock\//, "").replace(/\\/g, '/'); //接口路径
+		
 		let data = require('./' + file); //接口数据
 		console.log(' http://127.0.0.1:3000'+mockUrl)
 		//模拟接口 
